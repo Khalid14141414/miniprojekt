@@ -2,7 +2,11 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
+<<<<<<< HEAD
       <module fileurl="file://$PROJECT_DIR$/gitOpgave.iml" filepath="$PROJECT_DIR$/gitOpgave.iml" />
+=======
+      <module fileurl="file://$PROJECT_DIR$/miniprojekt.iml" filepath="$PROJECT_DIR$/miniprojekt.iml" />
+>>>>>>> 2f4a20651eb4e321575223d4a0d0452bc0651a07
     </modules>
   </component>
 </project>
